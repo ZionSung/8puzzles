@@ -1,0 +1,2 @@
+# 8puzzles
+ bfs practice
