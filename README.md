@@ -1,4 +1,2 @@
 # 8puzzles
- bfs practice
-
- in artificial intellegence
+2019 Junior 1 Semester/ AI class / bfs 
